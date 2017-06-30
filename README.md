@@ -1,4 +1,4 @@
-# Epectation_Maximization_on_GMM
+# Epectation_Maximization_on_GMM in Python
 Implementation of Expectation Maximization Algorithm on Gaussian Mixture Models (Three clusters)
 
 Original implementation of the code was done by McDickenson available here - https://github.com/mcdickenson/em-gaussian
